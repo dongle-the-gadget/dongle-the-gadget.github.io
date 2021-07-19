@@ -39,6 +39,7 @@
             return response.text();
           })
           .then(function (links) {
+            document.getElementById('links').innerText = "";
             var linkslist = links.split('\n');
             linkslist.forEach(function(line) {
               if (line.startsWith("#"))
