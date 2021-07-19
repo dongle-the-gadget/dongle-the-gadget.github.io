@@ -94,3 +94,4 @@ https://twitter.com/TheClippy
 # Example URLs for use in documents (owned by IANA)
 https://example.com
 https://example.org
+https://example.net
