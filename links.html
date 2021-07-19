@@ -40,8 +40,7 @@
           })
           .then(function (links) {
             var linkslist = links.split('\n');
-            for (int i = 0; i < linkslist.length; i++) {
-              var line = linkslist[i];
+            linksList.forEach(function(line) {
               if (line.startsWith("#"))
               {
                 // Title
@@ -53,7 +52,7 @@
               else {
                 document.getElementById('links').innerHTML += "<a href='" + line + "'>" + line + "</a>";
               }
-            }
+            });
           });
       </script>
       <hr>
