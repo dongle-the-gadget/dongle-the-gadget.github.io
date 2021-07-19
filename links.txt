@@ -4,13 +4,16 @@ https://github.com/superkid200
 # This website source code
 https://github.com/superkid200/superkid200.github.io
 
+# Legacy website (don't click, it's bad)
+https://superkid200.github.io/scrapped/index.html
+
 # Twitter profile
 https://twitter.com/a_donglee
 
 # Reddit profile
 https://reddit.com/user/Electronic-Bat-1830
 
-# Windows subreddits
+# Windows subreddits (not controlled by me)
 https://reddit.com/r/Windows
 https://reddit.com/r/WindowsVista
 https://reddit.com/r/Windows7
