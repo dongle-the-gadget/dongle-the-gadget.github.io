@@ -1,3 +1,5 @@
+# Please note that all links here are not necessarily controlled by me, and I'm not responsible for the content in most of these links.
+
 # GitHub profile
 https://github.com/superkid200
 
@@ -13,7 +15,7 @@ https://twitter.com/a_donglee
 # Reddit profile
 https://reddit.com/user/Electronic-Bat-1830
 
-# Windows subreddits (not controlled by me)
+# Windows subreddits
 https://reddit.com/r/Windows
 https://reddit.com/r/WindowsVista
 https://reddit.com/r/Windows7
