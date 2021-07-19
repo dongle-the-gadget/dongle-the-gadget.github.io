@@ -91,5 +91,6 @@ https://gus33000.me
 # The Clippy (Twitter)
 https://twitter.com/TheClippy
 
-# Example site for use in documents (owned by IANA)
+# Example URLs for use in documents (owned by IANA)
 https://example.com
+https://example.org
