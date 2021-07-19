@@ -40,7 +40,7 @@
           })
           .then(function (links) {
             var linkslist = links.split('\n');
-            linksList.forEach(function(line) {
+            linkslist.forEach(function(line) {
               if (line.startsWith("#"))
               {
                 // Title
@@ -50,7 +50,7 @@
                 document.getElementById('links').innerHTML += "</p>";
               }
               else {
-                document.getElementById('links').innerHTML += "<a href='" + line + "'>" + line + "</a>";
+                document.getElementById('links').innerHTML += "<a href='" + line + "'>" + line + "</a><br>";
               }
             });
           });
