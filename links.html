@@ -9,14 +9,30 @@
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dongle's website</title>
+    <style>
+      .linksdiv {
+        background-color: #cccccc;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 10px;
+      }
+      
+      @media (prefers-color-scheme: dark) {
+        .linksdiv {
+          background-color: #555555;
+        }
+      }
+    </style>
   </head>
   <body>
     <main>
       <h1 class="dongle">Dongle's link list</h1>
       <p>The link list is designed to be machine-readable.<br>You can find the raw text file <a href="links.txt">here</a></p>
-      <details id="links">
+      <div id="links" class="linksdiv">
         Loading... If it doesn't load for you, or if you have disabled JavaScript, use the link to the raw text file. Sorry for the inconvenience.
-      </details>
+      </div>
       <script>
         fetch('./links.txt')
           .then(function (response) {
