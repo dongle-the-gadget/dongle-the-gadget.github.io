@@ -12,13 +12,13 @@
   </head>
   <body>
     <main>
-      <h1 class="dongle">Dongle link list</h1>
+      <h1 class="dongle">Dongle's link list</h1>
       <p>The link list is designed to be machine-readable.<br>You can find the raw text file <a href="links.txt">here</a></p>
       <details id="links">
         Loading... If it doesn't load for you, or if you have disabled JavaScript, use the link to the raw text file. Sorry for the inconvenience.
       </details>
       <script>
-        fetch('./domains.txt')
+        fetch('./links.txt')
           .then(function (response) {
             return response.text();
           })
@@ -27,7 +27,7 @@
           });
       </script>
       <hr>
-      <a href="/">Home</a> | <a href="https://twitter.com/a_donglee">Twitter</a> | <a href="https://reddit.com/user/Electronic-Bat-1830">Reddit</a> | <a href="scrapped/index.html">Old mode (not recommended)</a>
+      <a href="/">Home</a> | <a href="https://twitter.com/a_donglee">Twitter</a> | <a href="https://reddit.com/user/Electronic-Bat-1830">Reddit</a> | <a href="links.html">More links</a> | <a href="scrapped/index.html">Old mode (not recommended)</a>
     </main>
   </body>
 </html>
