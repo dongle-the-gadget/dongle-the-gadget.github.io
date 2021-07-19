@@ -37,6 +37,15 @@ details {
 
 h1, h2, h3 {
   line-height: 1.2;
+  font-family: "Segoe UI Variable Display",
+        "Segoe UI",
+        -apple-system,
+        BlinkMacSystemFont,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji";
 }
 
 .dongle {
