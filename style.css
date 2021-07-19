@@ -25,6 +25,15 @@ a:hover {
   color:#4882e0;
 }
 
+details {
+    background-color: #cccccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
 
 h1, h2, h3 {
   line-height: 1.2;
@@ -51,5 +60,8 @@ li::before {
     }
     a {
         color: #3391ff;
+    }
+    details {
+        background-color: #555555;
     }
 }
