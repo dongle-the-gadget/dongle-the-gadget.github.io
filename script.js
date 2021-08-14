@@ -1,4 +1,4 @@
-document.write('<p>GitHub life:</p> <ul><li><a href="https://github.com/superkid200/">My GitHub profile</a></li><li><a href="https://github.com/superkid200/superkid200.github.io">This page source code</a></li></ul>');
+document.write('<p>GitHub life:</p> <ul><li><a href="https://github.com/dongle-the-gadget/">My GitHub profile</a></li><li><a href="https://github.com/dongle-the-gadget/dongle-the-gadget.github.io">This page source code</a></li></ul>');
 
 document.write('<p>Social:</p> <ul><li><a href="https://twitter.com/a_donglee">Twitter</a></li><li><a href="https://reddit.com/user/Electronic-Bat-1830">Reddit</a></li></ul>')
 
