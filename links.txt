@@ -1,13 +1,13 @@
 # Please note that all links here are not necessarily controlled by me, and I'm not responsible for the content in most of these links.
 
 # GitHub profile
-https://github.com/superkid200
+https://github.com/dongle-the-gadget
 
 # This website source code
-https://github.com/superkid200/superkid200.github.io
+https://github.com/dongle-the-gadget/dongle-the-gadget.github.io
 
 # Legacy website (don't click, it's bad)
-https://superkid200.github.io/scrapped/index.html
+https://dongle-the-gadget.github.io/scrapped/index.html
 
 # Twitter profile
 https://twitter.com/a_donglee
