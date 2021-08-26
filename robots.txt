@@ -1,0 +1,21 @@
+# Scrapped versions
+Disallow: /scrapped
+
+# Links.txt file
+Disallow: /links.txt
+
+# Template
+Disallow: /template.html
+
+# 404 Page
+Disallow: /404.html
+
+# Resources
+Disallow: /script.js
+Disallow: /style.css
+Disallow: /Wumpus.png
+Disallow: /favicon.ico
+Disallow: /secrets.html
+Disallow: /LICENSE
+Disallow: /README.md
+Disallow: /details-polyfill.js
