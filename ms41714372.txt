@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "dongle-the-gadget.github.io",
+  "Id": "dd045ae6-694e-4b63-ba91-8ba7894fff05"
+}
