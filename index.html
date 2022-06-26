@@ -12,8 +12,16 @@
     <title>Dongle's website</title>
     <meta name="google-site-verification" content="ZItz31Yrkra283Gj62xhxljpEhI_4dTyWO0B_VCmkXc" />
     <script>
-      const delay = ms => new Promise(res => setTimeout(res, ms));
-      while(true) { document.getElementById("test").innerHTML += "A"; await delay(50); }
+      async function fuckMyLife() {
+        const delay = ms => new Promise(res => setTimeout(res, ms));
+        while(true) 
+        {
+          document.getElementById("test").innerHTML += "A";
+          await delay(50);
+        }
+      }
+      
+      fuckMyLife();
     </script>
   </head>
   <body style="margin:0">
