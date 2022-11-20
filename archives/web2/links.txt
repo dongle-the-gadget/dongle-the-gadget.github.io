@@ -3,11 +3,14 @@
 # GitHub profile
 https://github.com/dongle-the-gadget
 
+# New website
+https://www.roundadorner.tk
+
 # This website source code
 https://github.com/dongle-the-gadget/dongle-the-gadget.github.io
 
 # Legacy website (don't click, it's bad)
-https://dongle-the-gadget.github.io/scrapped/index.html
+https://dongle-the-gadget.github.io/archives/web1
 
 # Twitter profile
 https://twitter.com/a_donglee
